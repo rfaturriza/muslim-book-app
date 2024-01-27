@@ -1,2 +1,2 @@
 # privacy-policy-app
-- Muslim book android app -> https://rfaturriza.github.io/privacy-policy-app/muslim-book
+- Muslim book privacy policy -> https://rfaturriza.github.io/muslim-book-app/privacy-policy
